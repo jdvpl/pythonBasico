@@ -3,9 +3,8 @@
 print("insecto")
 
 """"
-hoal lkasjdflkasjd
-es ye es un insecticvoalsdkfj
-y tampoco se mostrara jajajja
-jiren es un marica
+asi se hacen los comentarios donde implica mas de una linea
+ejjeje
 
 """
+print("Adios")
