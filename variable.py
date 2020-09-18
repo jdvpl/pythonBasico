@@ -2,4 +2,10 @@
     luego puede ser aprovechada
 """
 texto="Master en Python"
+texto2="Voy a ser un full stack developer"
+num=3
+num2=5
 print(texto)
+print(texto2)
+print(num)
+print(num2)
